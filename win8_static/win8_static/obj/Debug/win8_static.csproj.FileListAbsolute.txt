@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\bin\Debug\win8_static.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\bin\Debug\win8_static.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\bin\Debug\win8_static.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\obj\Debug\win8_static.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\obj\Debug\win8_static.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\obj\Debug\win8_static.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\obj\Debug\win8_static.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\obj\Debug\win8_static.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win8_static\win8_static\obj\Debug\win8_static.pdb

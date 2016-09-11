@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\bin\Debug\win9_abstract.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\bin\Debug\win9_abstract.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\bin\Debug\win9_abstract.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\obj\Debug\win9_abstract.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\obj\Debug\win9_abstract.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\obj\Debug\win9_abstract.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\obj\Debug\win9_abstract.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\obj\Debug\win9_abstract.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win9_abstract\win9_abstract\obj\Debug\win9_abstract.pdb

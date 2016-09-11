@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\bin\Debug\win10_interfaceuygulama.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\bin\Debug\win10_interfaceuygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\bin\Debug\win10_interfaceuygulama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\obj\Debug\win10_interfaceuygulama.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\obj\Debug\win10_interfaceuygulama.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\obj\Debug\win10_interfaceuygulama.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\obj\Debug\win10_interfaceuygulama.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\obj\Debug\win10_interfaceuygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interfaceuygulama\win10_interfaceuygulama\obj\Debug\win10_interfaceuygulama.pdb

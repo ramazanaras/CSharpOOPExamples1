@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\bin\Debug\win5_polymorphism_uygulama.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\bin\Debug\win5_polymorphism_uygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\bin\Debug\win5_polymorphism_uygulama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\obj\Debug\win5_polymorphism_uygulama.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\obj\Debug\win5_polymorphism_uygulama.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\obj\Debug\win5_polymorphism_uygulama.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\obj\Debug\win5_polymorphism_uygulama.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\obj\Debug\win5_polymorphism_uygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphism_uygulama\win5_polymorphism_uygulama\obj\Debug\win5_polymorphism_uygulama.pdb

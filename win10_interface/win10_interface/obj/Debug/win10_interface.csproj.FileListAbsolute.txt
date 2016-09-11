@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\bin\Debug\win10_interface.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\bin\Debug\win10_interface.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\bin\Debug\win10_interface.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\obj\Debug\win10_interface.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\obj\Debug\win10_interface.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\obj\Debug\win10_interface.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\obj\Debug\win10_interface.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\obj\Debug\win10_interface.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win10_interface\win10_interface\obj\Debug\win10_interface.pdb

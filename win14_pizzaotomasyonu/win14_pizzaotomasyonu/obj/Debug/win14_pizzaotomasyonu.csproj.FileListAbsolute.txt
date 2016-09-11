@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\bin\Debug\win14_pizzaotomasyonu.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\bin\Debug\win14_pizzaotomasyonu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\bin\Debug\win14_pizzaotomasyonu.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\obj\Debug\win14_pizzaotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\obj\Debug\win14_pizzaotomasyonu.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\obj\Debug\win14_pizzaotomasyonu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\obj\Debug\win14_pizzaotomasyonu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\obj\Debug\win14_pizzaotomasyonu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win14_pizzaotomasyonu\win14_pizzaotomasyonu\obj\Debug\win14_pizzaotomasyonu.pdb

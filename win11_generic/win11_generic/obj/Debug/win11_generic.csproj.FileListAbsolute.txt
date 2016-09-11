@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\bin\Debug\win11_generic.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\obj\Debug\win11_generic.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\obj\Debug\win11_generic.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\obj\Debug\win11_generic.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\obj\Debug\win11_generic.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\bin\Debug\win11_generic.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\bin\Debug\win11_generic.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\obj\Debug\win11_generic.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win11_generic\win11_generic\obj\Debug\win11_generic.pdb

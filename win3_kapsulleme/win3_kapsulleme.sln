@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "win3_kapsulleme", "win3_kapsulleme\win3_kapsulleme.csproj", "{584494DB-9684-4EE4-8046-E75A7C393B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584494DB-9684-4EE4-8046-E75A7C393B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584494DB-9684-4EE4-8046-E75A7C393B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584494DB-9684-4EE4-8046-E75A7C393B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584494DB-9684-4EE4-8046-E75A7C393B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

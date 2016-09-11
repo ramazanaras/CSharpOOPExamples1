@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\bin\Debug\win3_kapsulleme.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\bin\Debug\win3_kapsulleme.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\bin\Debug\win3_kapsulleme.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\obj\Debug\win3_kapsulleme.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\obj\Debug\win3_kapsulleme.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\obj\Debug\win3_kapsulleme.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\obj\Debug\win3_kapsulleme.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\obj\Debug\win3_kapsulleme.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win3_kapsulleme\win3_kapsulleme\obj\Debug\win3_kapsulleme.pdb

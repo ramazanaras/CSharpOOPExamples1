@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\bin\Debug\win5_polymorphizm.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\bin\Debug\win5_polymorphizm.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\bin\Debug\win5_polymorphizm.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\obj\Debug\win5_polymorphizm.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\obj\Debug\win5_polymorphizm.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\obj\Debug\win5_polymorphizm.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\obj\Debug\win5_polymorphizm.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\obj\Debug\win5_polymorphizm.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphizm\win5_polymorphizm\obj\Debug\win5_polymorphizm.pdb

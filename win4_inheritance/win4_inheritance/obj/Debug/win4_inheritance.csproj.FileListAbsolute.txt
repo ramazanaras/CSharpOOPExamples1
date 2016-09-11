@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\bin\Debug\win4_inheritance.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\bin\Debug\win4_inheritance.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\bin\Debug\win4_inheritance.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\obj\Debug\win4_inheritance.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\obj\Debug\win4_inheritance.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\obj\Debug\win4_inheritance.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\obj\Debug\win4_inheritance.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\obj\Debug\win4_inheritance.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win4_inheritance\win4_inheritance\obj\Debug\win4_inheritance.pdb

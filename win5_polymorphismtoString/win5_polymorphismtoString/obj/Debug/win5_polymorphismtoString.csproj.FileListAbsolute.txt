@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\bin\Debug\win5_polymorphismtoString.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\bin\Debug\win5_polymorphismtoString.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\bin\Debug\win5_polymorphismtoString.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\obj\Debug\win5_polymorphismtoString.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\obj\Debug\win5_polymorphismtoString.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\obj\Debug\win5_polymorphismtoString.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\obj\Debug\win5_polymorphismtoString.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win5_polymorphismtoString\win5_polymorphismtoString\obj\Debug\win5_polymorphismtoString.pdb

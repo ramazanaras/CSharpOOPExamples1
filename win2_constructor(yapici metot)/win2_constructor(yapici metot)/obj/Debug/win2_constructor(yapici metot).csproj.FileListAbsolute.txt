@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\bin\Debug\win2_constructor(yapici metot).exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\obj\Debug\win2_constructor(yapici metot).csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\obj\Debug\win2_constructor_yapici_metot_.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\obj\Debug\win2_constructor_yapici_metot_.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\obj\Debug\win2_constructor(yapici metot).csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\bin\Debug\win2_constructor(yapici metot).exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\bin\Debug\win2_constructor(yapici metot).pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\obj\Debug\win2_constructor(yapici metot).exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win2_constructor(yapici metot)\win2_constructor(yapici metot)\obj\Debug\win2_constructor(yapici metot).pdb

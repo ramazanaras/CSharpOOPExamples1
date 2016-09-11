@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\bin\Debug\win13_IEnumeratoruygulamasi.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\bin\Debug\win13_IEnumeratoruygulamasi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\bin\Debug\win13_IEnumeratoruygulamasi.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\obj\Debug\win13_IEnumeratoruygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\obj\Debug\win13_IEnumeratoruygulamasi.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\obj\Debug\win13_IEnumeratoruygulamasi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\obj\Debug\win13_IEnumeratoruygulamasi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\obj\Debug\win13_IEnumeratoruygulamasi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\2.1 OOP\win13_IEnumeratoruygulamasi\win13_IEnumeratoruygulamasi\obj\Debug\win13_IEnumeratoruygulamasi.pdb
