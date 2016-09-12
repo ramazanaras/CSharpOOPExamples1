@@ -54,12 +54,12 @@ namespace win14_pizzaotomasyonu
 
 
         }
-        Siparis s;
+        Siparis s;  //s şuan null aşağıda new'leyerek dolduruyoruz.
         private void btnHesapla_Click(object sender, EventArgs e)
         {
-            Pizza p = (Pizza)listPizzalar.SelectedItem;//unboxing yaptık(objeyi çıkarttık)
-            p.Ebati =(Ebat)cmbEbat.SelectedItem;
-            p.KenarTipi = rdbInceKenar.Checked ? (KenarTip)rdbInceKenar.Tag : (KenarTip)rdbKalinKenar.Tag;
+            Pizza p = (Pizza)listPizzalar.SelectedItem;//unboxing yaptık(objeyi çıkarttık) listPizzalar.SelectedItem as Pizza 'da diyebilirdik.(cast işlemi)
+            p.Ebati =(Ebat)cmbEbat.SelectedItem; //Ebat tipinde
+            p.KenarTipi = rdbInceKenar.Checked ? (KenarTip)rdbInceKenar.Tag : (KenarTip)rdbKalinKenar.Tag;//ternary if
 
             //foreach (Control ctrl in groupBox1.Controls)//groupboxın içinde gez
             //{
@@ -71,7 +71,7 @@ namespace win14_pizzaotomasyonu
             //}
                     //---ikinci yöntem aşağıdaki gibi
 
-            p.Malzemeler = new List<string>();  //new leme  yaptık. yoksa aşağıda hata verirdi
+            p.Malzemeler = new List<string>();  //new leme  yaptık. yoksa aşağıda hata verirdi.(bunu Pizza classının constructor metodundada tanımlayabilirdik.)
             foreach (CheckBox ctrl in groupBox1.Controls)
             {
                 if (ctrl.Checked)
